@@ -1,0 +1,50 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+}
+.container {
+width: 100vw;
+height: 100vh;
+background: #dfdfdf;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center
+
+}
+.box {
+width: 300px;
+height: 300px;
+background: #fff;
+
+}
+.username {
+    background: #bcfabf;
+    color: black;    
+    border-style: none;
+    height: 40;
+    width: 200;
+    font: 15px 'Ubuntu', sans-serif;
+    text-shadow:none; 
+    margin: 5px;
+}
+.password {
+    background: #bcfabf;
+    color: black;    
+    border-style: none;
+    height: 40;
+    width: 200;
+    font: 15px 'Ubuntu', sans-serif;
+    text-shadow:none; 
+    margin: 5px;
+}
+.submit-button {
+    background: #006605;
+    color: white;    
+    border-style: none;
+    height: 50px;
+    width: 115px;
+    font: bold 15px 'Ubuntu', sans-serif;
+    text-shadow:none;
+    align-content: center;
+}

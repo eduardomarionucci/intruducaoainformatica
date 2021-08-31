@@ -1,0 +1,33 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #c5ffbf
+}
+.logo {
+    margin-left: 0;
+}
+.navbar {
+    font: size 25px;
+}
+.login {
+    background: #006605;
+    color: white;    
+    border-style: none;
+    height: 50px;
+    width: 115px;
+    font: bold 20px 'Ubuntu', sans-serif;
+    text-shadow:none; 
+    
+}
+.register {
+    background: #006605;
+    color: white;    
+    border-style: none;
+    height: 50px;
+    width: 115px;
+    font: bold 20px 'Ubuntu', sans-serif;
+    text-shadow:none; 
+    
+}
+.img-responsive {
+    max-width: 55%;
+}
