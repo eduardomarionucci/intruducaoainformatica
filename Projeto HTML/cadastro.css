@@ -1,0 +1,29 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+.container {
+    text-align: left center;
+    margin-right: 350px ;
+    margin-left: 350px ;
+}
+.form-limpar {
+
+    background: #006605;
+    color: white;    
+    border-style: none;
+    height: 50px;
+    width: 100px;
+    font: bold 15px 'Ubuntu', sans-serif;
+    text-shadow:none;
+        
+}
+
+.form-enviar {
+    background: #006605;
+    color: white;    
+    border-style: none;
+    height: 50px;
+    width: 115px;
+    font: bold 15px 'Ubuntu', sans-serif;
+    text-shadow:none; 
+}
